@@ -1,0 +1,5 @@
+org\aarish\movies\repository\MovieRepository.class
+org\aarish\movies\exception\RepoException.class
+org\aarish\movies\model\Movie.class
+org\aarish\movies\servlets\addMovie.class
+org\aarish\movies\servlets\getMovies.class
